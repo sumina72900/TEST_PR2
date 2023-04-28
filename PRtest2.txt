@@ -1,3 +1,4 @@
 PR2 Test
 
+im user1
 im user2
